@@ -1,17 +1,17 @@
 {
   "app": "WULU KO",
-  "version": "2.4.0",
-  "notes": "Bouton de déconnexion, affichage adapté au téléphone, mises à jour intégrées",
+  "version": "2.5.0",
+  "notes": "Fichier comptable (Excel, CSV, PDF) et écran d'affichage TV/tablette",
   "packages": {
     "windows": {
-      "url": "wulu-ko-update-2.4.0-windows.wkupd",
-      "size": 19613439,
-      "sha256": "996ed95180d07a7f37e9357f05793df25136190c0a2ec8add867ec3029c3c95a"
+      "url": "wulu-ko-update-2.5.0-windows.wkupd",
+      "size": 19908192,
+      "sha256": "656afae1b661b1556de7c9cc90436191499f67b2b58bebd595c6134f10b4ef08"
     },
     "linux": {
-      "url": "wulu-ko-update-2.4.0-linux.wkupd",
-      "size": 35381188,
-      "sha256": "e24fd6f9291cc5f83fe443a1829c3af3331a82d91e41f8cebec6a91f7f60c5ea"
+      "url": "wulu-ko-update-2.5.0-linux.wkupd",
+      "size": 35649058,
+      "sha256": "0d93a9a4625d3e8210b114df9d66f171e724d50762f3be01746aabb3a4359326"
     }
   }
 }
