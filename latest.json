@@ -1,17 +1,17 @@
 {
   "app": "WULU KO",
-  "version": "2.5.0",
-  "notes": "Fichier comptable (Excel, CSV, PDF) et écran d'affichage TV/tablette",
+  "version": "2.6.0",
+  "notes": "Application Android sans PC (APK 1.3.0) : WULU KO fonctionne seul sur téléphone et tablette, avec récupération des données du PC. Couleurs par rubrique et météo aux couleurs du temps.",
   "packages": {
     "windows": {
-      "url": "wulu-ko-update-2.5.0-windows.wkupd",
-      "size": 19908192,
-      "sha256": "656afae1b661b1556de7c9cc90436191499f67b2b58bebd595c6134f10b4ef08"
+      "url": "wulu-ko-update-2.6.0-windows.wkupd",
+      "size": 20840699,
+      "sha256": "4e07bf350030426d1ebb90ddc85fadaf54889feab779e864eb4b3584e3d5c5b7"
     },
     "linux": {
-      "url": "wulu-ko-update-2.5.0-linux.wkupd",
-      "size": 35649058,
-      "sha256": "0d93a9a4625d3e8210b114df9d66f171e724d50762f3be01746aabb3a4359326"
+      "url": "wulu-ko-update-2.6.0-linux.wkupd",
+      "size": 36581572,
+      "sha256": "15b9618fb9651091df8f77e59434111627c893f03d19c1e7f228c84da2720b94"
     }
   }
 }
