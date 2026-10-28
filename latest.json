@@ -1,0 +1,17 @@
+{
+  "app": "WULU KO",
+  "version": "2.4.0",
+  "notes": "Bouton de déconnexion, affichage adapté au téléphone, mises à jour intégrées",
+  "packages": {
+    "windows": {
+      "url": "wulu-ko-update-2.4.0-windows.wkupd",
+      "size": 19613439,
+      "sha256": "996ed95180d07a7f37e9357f05793df25136190c0a2ec8add867ec3029c3c95a"
+    },
+    "linux": {
+      "url": "wulu-ko-update-2.4.0-linux.wkupd",
+      "size": 35381188,
+      "sha256": "e24fd6f9291cc5f83fe443a1829c3af3331a82d91e41f8cebec6a91f7f60c5ea"
+    }
+  }
+}
